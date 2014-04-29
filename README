@@ -1,0 +1,7 @@
+this is a collection of email templates I created for Lehman's Hardware using the Ink Responsive framework
+
+Notes on future functionality:
+=============================
+html templating and compiling using grunt?
+inlining CSS see : https://github.com/davecranwell/inline-styler
+sending mail to test.
