@@ -1,6 +1,7 @@
 /**********************************************
 * Ink v1.0.5 - Copyright 2013 ZURB Inc        *
 **********************************************/
+/* anchor visited, hover, active color changed - mrm*/
 
 /* Client-specific Styles & Reset */
 
@@ -357,15 +358,15 @@ a {
 }
 
 a:hover { 
-  color: #2795b6 !important;
+  color: #000630 !important;
 }
 
 a:active { 
-  color: #2795b6 !important;
+  color: #000630 !important;
 }
 
 a:visited { 
-  color: #2ba6cb !important;
+  color: #000630 !important;
 }
 
 h1 a, 
