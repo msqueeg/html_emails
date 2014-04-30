@@ -9,7 +9,7 @@ module.exports = function(grunt) {
     // Task configuration.
     htmlbuild: {
       dist: {
-        src: 'base/_test.html',
+        src: 'base/*.html',
         dest: 'compile/',
         options: {
           logOptions: true,
