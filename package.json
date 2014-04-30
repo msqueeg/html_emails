@@ -1,0 +1,23 @@
+{
+  "name": "html_emails",
+  "version": "0.0.0",
+  "description": "html email templates for lehman's hardware",
+  "main": "_base.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/msqueeg/html_emails.git"
+  },
+  "keywords": [
+    "email",
+    "templates"
+  ],
+  "author": "michael miller",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/msqueeg/html_emails/issues"
+  },
+  "homepage": "https://github.com/msqueeg/html_emails"
+}
